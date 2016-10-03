@@ -1,5 +1,5 @@
 # Published Articles
-Below are links to articles, blog posts, etc. written by me that are available online. I've also uploaded hard copies of other clips to this repository.
+Below are links to articles, blog posts, etc. written by me that are available online.
 
 ## The Flyover
 <a href=http://theflyover.net>The Flyover</a> is "a blog about cities that aren't New York," aka a collection of essays loosely related to the Midwest and other "flyover" parts of the United States and/or by Midwestern writers. Together with <a href="http://lukeandrewgeddes.com">Luke Geddes</a>, I launched this site in September 2015.
